@@ -1,21 +1,46 @@
-<<<<<<< HEAD
-# flutter_application_1
+# Student Management System
 
-A new Flutter project.
+A cross-platform Student Management Application developed using Flutter, Dart, PHP, and MySQL.
 
-## Getting Started
+## About the Project
 
-This project is a starting point for a Flutter application.
+The Student Management System is a mobile application designed to help manage student and teacher information through a modern and user-friendly interface.
 
-A few resources to get you started if this is your first Flutter project:
+The application uses Flutter for the frontend and PHP with MySQL for backend services and database management.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technologies Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# student-management-app
-A modern student management application built with Flutter, PHP, and MySQL.
->>>>>>> 04ca7a014def8ee825a7cd338d8efcfd92ab1f8d
+- **Flutter** – Cross-platform mobile development
+- **Dart** – Application programming language
+- **PHP** – Backend development
+- **MySQL** – Database management
+- **Google Fonts** – Typography and UI design
+- **Image Picker** – Image selection functionality
+
+## Key Features
+
+- Student information management
+- Teacher information management
+- Cross-platform mobile application
+- User-friendly interface
+- Database integration
+
+## Project Structure
+
+The project is organized to support maintainability and future development.
+
+## Developer
+
+**Salman Sadiq Suleiman**
+
+Flutter & PHP Developer
+
+- GitHub: https://github.com/salman-sadiq129
+
+## Project Status
+
+Developed as a software development project to demonstrate mobile application development and backend integration skills.
+
+---
+
+*Built with Flutter, Dart, PHP, and MySQL.*
